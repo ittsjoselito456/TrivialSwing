@@ -1,0 +1,2703 @@
+<preguntes>
+    <pregunta>
+        <text>Quin és el nom del droide astromecànic que acompanya Luke Skywalker en "Star Wars"?</text>
+        <respostes>
+            <correcta>R2-D2</correcta>
+            <incorrecta>C-3PO</incorrecta>
+            <incorrecta>BB-8</incorrecta>
+            <incorrecta>Droideka</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el creador del llenguatge de programació Python?</text>
+        <respostes>
+            <correcta>Guido van Rossum</correcta>
+            <incorrecta>Dennis Ritchie</incorrecta>
+            <incorrecta>Bjarne Stroustrup</incorrecta>
+            <incorrecta>James Gosling</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del cotxe que utilitza Marty McFly en "Back to the Future"?</text>
+        <respostes>
+            <correcta>DeLorean DMC-12</correcta>
+            <incorrecta>Ford Mustang</incorrecta>
+            <incorrecta>Chevrolet Camaro</incorrecta>
+            <incorrecta>Toyota MR2</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del sistema operatiu de codi obert més popular?</text>
+        <respostes>
+            <correcta>Linux</correcta>
+            <incorrecta>Windows</incorrecta>
+            <incorrecta>macOS</incorrecta>
+            <incorrecta>Solaris</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del personatge interpretat per Keanu Reeves en "The Matrix"?</text>
+        <respostes>
+            <correcta>Neo</correcta>
+            <incorrecta>Morpheus</incorrecta>
+            <incorrecta>Trinity</incorrecta>
+            <incorrecta>Cypher</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del primer ordinador personal llançat per Apple?</text>
+        <respostes>
+            <correcta>Apple I</correcta>
+            <incorrecta>Apple II</incorrecta>
+            <incorrecta>Macintosh</incorrecta>
+            <incorrecta>iMac</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del cotxe que conduïa KITT en "Knight Rider"?</text>
+        <respostes>
+            <correcta>Pontiac Firebird Trans Am</correcta>
+            <incorrecta>Dodge Charger</incorrecta>
+            <incorrecta>Ford Gran Torino</incorrecta>
+            <incorrecta>Chevrolet Corvette</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del llenguatge de programació utilitzat per a crear aplicacions Android?</text>
+        <respostes>
+            <correcta>Java</correcta>
+            <incorrecta>Swift</incorrecta>
+            <incorrecta>C#</incorrecta>
+            <incorrecta>Ruby</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del personatge interpretat per Arnold Schwarzenegger en "Terminator"?</text>
+        <respostes>
+            <correcta>T-800</correcta>
+            <incorrecta>John Connor</incorrecta>
+            <incorrecta>Sarah Connor</incorrecta>
+            <incorrecta>Kyle Reese</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del cotxe que utilitza James Bond en "Goldfinger"?</text>
+        <respostes>
+            <correcta>Aston Martin DB5</correcta>
+            <incorrecta>Lotus Esprit</incorrecta>
+            <incorrecta>BMW Z3</incorrecta>
+            <incorrecta>Ford Mustang</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+    <text>En que año se fundo el Real Betis Balompie?</text>
+    <respostes>
+      <correcta>1907</correcta>
+      <incorrecta>1923</incorrecta>
+      <incorrecta>1910</incorrecta>
+      <incorrecta>1899</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Que titulo nacional gano el Betis por primera vez en 1935?</text>
+    <respostes>
+      <correcta>La Liga</correcta>
+      <incorrecta>Copa del Rey</incorrecta>
+      <incorrecta>Supercopa de España</incorrecta>
+      <incorrecta>Ninguno</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Cual es el estadio del Real Betis Balompie?</text>
+    <respostes>
+      <correcta>Estadio Benito Villamarin</correcta>
+      <incorrecta>Ramon Sanchez-Pizjuan</incorrecta>
+      <incorrecta>La Rosaleda</incorrecta>
+      <incorrecta>San Mames</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>De que colores es la camiseta del Real Betis?</text>
+    <respostes>
+      <correcta>Verde y blanca</correcta>
+      <incorrecta>Roja y blanca</incorrecta>
+      <incorrecta>Amarilla y azul</incorrecta>
+      <incorrecta>Negra y blanca</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quien es el maximo goleador historico del Betis?</text>
+    <respostes>
+      <correcta>Ruben Castro</correcta>
+      <incorrecta>Joaquin</incorrecta>
+      <incorrecta>Rafael Gordillo</incorrecta>
+      <incorrecta>Eduardo Esnaider</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Cual es el apodo mas conocido del Real Betis?</text>
+    <respostes>
+      <correcta>Los Verdiblancos</correcta>
+      <incorrecta>Los Leones</incorrecta>
+      <incorrecta>Los Colchoneros</incorrecta>
+      <incorrecta>Los Periquitos</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>En que año gano el Betis su segunda Copa del Rey?</text>
+    <respostes>
+      <correcta>2005</correcta>
+      <incorrecta>1977</incorrecta>
+      <incorrecta>1995</incorrecta>
+      <incorrecta>2010</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Que jugador es una leyenda del Betis y tambien destaco en la seleccion española?</text>
+    <respostes>
+      <correcta>Rafael Gordillo</correcta>
+      <incorrecta>Fernando Hierro</incorrecta>
+      <incorrecta>Andres Iniesta</incorrecta>
+      <incorrecta>Iker Casillas</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>En que ciudad se encuentra el Betis?</text>
+    <respostes>
+      <correcta>Sevilla</correcta>
+      <incorrecta>Madrid</incorrecta>
+      <incorrecta>Barcelona</incorrecta>
+      <incorrecta>Valencia</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Cual es el lema mas popular entre los aficionados del Betis?</text>
+    <respostes>
+      <correcta>Viva el Betis manque pierda!</correcta>
+      <incorrecta>Aupa Betis!</incorrecta>
+      <incorrecta>Vamos Betis, siempre ganamos!</incorrecta>
+      <incorrecta>Força Betis!</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Què significa HTML?</text>
+    <respostes>
+      <correcta>HyperText Markup Language</correcta>
+      <incorrecta>Hyperlink Text Machine Language</incorrecta>
+      <incorrecta>Home Tool Markup Language</incorrecta>
+      <incorrecta>HighText Machine Language</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quina etiqueta HTML s'utilitza per crear un enllaç?</text>
+    <respostes>
+      <correcta>&lt;a&gt;</correcta>
+      <incorrecta>&lt;link&gt;</incorrecta>
+      <incorrecta>&lt;href&gt;</incorrecta>
+      <incorrecta>&lt;url&gt;</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+  <text>Quina és la funció d'un comentari en el codi?</text>
+  <respostes>
+    <correcta>Explicar el codi sense afectar l'execució</correcta>
+    <incorrecta>Fer que el codi sigui més ràpid</incorrecta>
+    <incorrecta>Executar instruccions especials</incorrecta>
+    <incorrecta>Ocultar errors</incorrecta>
+  </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quin és el llenguatge més utilitzat per la programació web?</text>
+    <respostes>
+      <correcta>JavaScript</correcta>
+      <incorrecta>Python</incorrecta>
+      <incorrecta>C++</incorrecta>
+      <incorrecta>Ruby</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quina extensió tenen els fitxers de Python?</text>
+    <respostes>
+      <correcta>.py</correcta>
+      <incorrecta>.pyn</incorrecta>
+      <incorrecta>.pyto</incorrecta>
+      <incorrecta>.on</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Com s'inicia una llista en JavaScript?</text>
+    <respostes>
+      <correcta>Amb []</correcta>
+      <incorrecta>Amb ()</incorrecta>
+      <incorrecta>Amb {}</incorrecta>
+      <incorrecta>Amb &lt;&gt;</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Què retorna `console.log(2 + 2)` a JavaScript?</text>
+    <respostes>
+      <correcta>4</correcta>
+      <incorrecta>"22"</incorrecta>
+      <incorrecta>undefined</incorrecta>
+      <incorrecta>null</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quina funció s'utilitza per mostrar un missatge en consola a JavaScript?</text>
+    <respostes>
+      <correcta>console.log()</correcta>
+      <incorrecta>alert()</incorrecta>
+      <incorrecta>print()</incorrecta>
+      <incorrecta>write()</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Què significa `null` a programació?</text>
+    <respostes>
+      <correcta>Absència de valor</correcta>
+      <incorrecta>Un número zero</incorrecta>
+      <incorrecta>Un error</incorrecta>
+      <incorrecta>Un objecte buit</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quina estructura s'utilitza per repetir una acció diverses vegades?</text>
+    <respostes>
+      <correcta>Un bucle</correcta>
+      <incorrecta>Una funció</incorrecta>
+      <incorrecta>Un array</incorrecta>
+      <incorrecta>Una variable</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quina és la capital de Hungris?</text>
+    <respostes>
+      <correcta>Budapest</correcta>
+      <incorrecta>Sofia</incorrecta>
+      <incorrecta>Bucarest</incorrecta>
+      <incorrecta>Belgrad</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quin va ser el període musical de Beethoven?</text>
+    <respostes>
+      <correcta>Clàssic - Romantic</correcta>
+      <incorrecta>Romantic - Clàssic</incorrecta>
+      <incorrecta>Barroc - Clàssic</incorrecta>
+      <incorrecta>Clàssic - Barroc</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quin és l'element identificat per K en la taula periòdica?</text>
+    <respostes>
+      <correcta>Potassi</correcta>
+      <incorrecta>Tungstè</incorrecta>
+      <incorrecta>Kobalt</incorrecta>
+      <incorrecta>Kripto</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quin emperador romà va ser l'enamorat de Cleopatra?</text>
+    <respostes>
+      <correcta>Marc Antoni</correcta>
+      <incorrecta>Juli Cèsar</incorrecta>
+      <incorrecta>August</incorrecta>
+      <incorrecta>marc Aureli</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quin és el felí més gran?</text>
+    <respostes>
+      <correcta>Tigre</correcta>
+      <incorrecta>Lleó</incorrecta>
+      <incorrecta>Lleopard</incorrecta>
+      <incorrecta>Guepard</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quin d'aquests NO és un oceà?</text>
+    <respostes>
+      <correcta>Oceà Asiàtic</correcta>
+      <incorrecta>Oceà Índic</incorrecta>
+      <incorrecta>Oceà Antartic</incorrecta>
+      <incorrecta>Oceà Atlantic</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Quin dia va neixer i morir Shakespear?</text>
+    <respostes>
+      <correcta>23 d'abril</correcta>
+      <incorrecta>27 d'abril</incorrecta>
+      <incorrecta>30 de març</incorrecta>
+      <incorrecta>17 de septembre</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Que li passa al protagonista de la pel·lícula Memento?</text>
+    <respostes>
+      <correcta>Que no és capaç de fer nous records</correcta>
+      <incorrecta>Que té amnesia</incorrecta>
+      <incorrecta>Que recorda tot el que li passa sense error</incorrecta>
+      <incorrecta>Que no vol recordar el que li ha passat i intenta no recordar-ho</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Qui era el pare de Zeus a la mitologia grega?</text>
+    <respostes>
+      <correcta>Cronos</correcta>
+      <incorrecta>Urà</incorrecta>
+      <incorrecta>Apol·lo</incorrecta>
+      <incorrecta>Saturn</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+    <text>Qui va ser conegut com al Rei del Rock?</text>
+    <respostes>
+      <correcta>Elvis Prestley</correcta>
+      <incorrecta>Jimi Hendrix</incorrecta>
+      <incorrecta>Eric Clapton</incorrecta>
+      <incorrecta>Kurt Cobain</incorrecta>
+    </respostes>
+  </pregunta>
+  <pregunta>
+        <text>De quin pais procedeix los panda?</text>
+        <respostes>
+            <correcta>China</correcta>
+            <incorrecta>Japo</incorrecta>
+            <incorrecta>Mongolia</incorrecta>
+            <incorrecta>Corea del nord</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina es la forma demissions televisives mes antiga?</text>
+        <respostes>
+            <correcta>Antena</correcta>
+            <incorrecta>Satel·lit</incorrecta>
+            <incorrecta>Cable</incorrecta>
+            <incorrecta>Wifi</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>En quin pais esta el Mont Fuji?</text>
+        <respostes>
+            <correcta>Japo</correcta>
+            <incorrecta>Mongolia</incorrecta>
+            <incorrecta>Corea del Nord</incorrecta>
+            <incorrecta>China</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin daquests actors españols ha guanyat un oscar a millor actor de suport?</text>
+        <respostes>
+            <correcta>Javier Bardem</correcta>
+            <incorrecta>Luis Tosar</incorrecta>
+            <incorrecta>Mario Casas</incorrecta>
+            <incorrecta>Antonio Banderas</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui va inventar la bombeta?</text>
+        <respostes>
+            <correcta>Thomas Edison</correcta>
+            <incorrecta>Albert Einstein</incorrecta>
+            <incorrecta>Isaac Newton</incorrecta>
+            <incorrecta>Richard Feynman</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin instrument mesura la pressio atmosferica?</text>
+        <respostes>
+            <correcta>Barometre</correcta>
+            <incorrecta>Termometre</incorrecta>
+            <incorrecta>Isometre</incorrecta>
+            <incorrecta>Octonometre</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin es lidioma mes antic d'europa?</text>
+        <respostes>
+            <correcta>Basc</correcta>
+            <incorrecta>Angles</incorrecta>
+            <incorrecta>Catala</incorrecta>
+            <incorrecta>Alemany</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin daquests grups de musica ha aconseguit mes discos dor?</text>
+        <respostes>
+            <correcta>The Beatles</correcta>
+            <incorrecta>The Police</incorrecta>
+            <incorrecta>Rolling Stones</incorrecta>
+            <incorrecta>Jackson Five</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin pais es el que mes cafe produeix en tot el mon?</text>
+        <respostes>
+            <correcta>Brasil</correcta>
+            <incorrecta>Belgica</incorrecta>
+            <incorrecta>Colombia</incorrecta>
+            <incorrecta>Espanya</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>De quin color es la G majuscula en el logotip de google?</text>
+        <respostes>
+            <correcta>Blava</correcta>
+            <incorrecta>Groga</incorrecta>
+            <incorrecta>Verda</incorrecta>
+            <incorrecta>Vermella</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del moroso de LQSA?</text>
+        <respostes>
+            <correcta>Germán Palomares</correcta>
+            <incorrecta>Enrique Pastor</incorrecta>
+            <incorrecta>Coque Calatrava</incorrecta>
+            <incorrecta>Vicente Maroto</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Què hi ha a dins del gnomo de Proyecto X?</text>
+        <respostes>
+            <correcta>Extasi</correcta>
+            <incorrecta>Diners</incorrecta>
+            <incorrecta>Caramels</incorrecta>
+            <incorrecta>Joies</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quantes vegades el senyor Cuesta de ANHQV és president de la comunitat?</text>
+        <respostes>
+            <correcta>3</correcta>
+            <incorrecta>1</incorrecta>
+            <incorrecta>5</incorrecta>
+            <incorrecta>2</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui va fundar Akatsuki?</text>
+        <respostes>
+            <correcta>Yahiko</correcta>
+            <incorrecta>Madara Uchiha</incorrecta>
+            <incorrecta>Obito Uchiha</incorrecta>
+            <incorrecta>Nagato</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Vi i Caitlyn són...</text>
+        <respostes>
+            <correcta>Lesbianes</correcta>
+            <incorrecta>Germanes</incorrecta>
+            <incorrecta>Caçadores de monstres</incorrecta>
+            <incorrecta>Aliens</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Herbert de Padre de Familia és...</text>
+        <respostes>
+            <correcta>Un vell obsessiu amb els adolescents</correcta>
+            <incorrecta>L’oncle de Peter</incorrecta>
+            <incorrecta>Un borratxo</incorrecta>
+            <incorrecta>L’amo del bar</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina raça és el gos de Cowboy Bebop?</text>
+        <respostes>
+            <correcta>Corgi gal·lès</correcta>
+            <incorrecta>Golden Retriever</incorrecta>
+            <incorrecta>Husky</incorrecta>
+            <incorrecta>Bulldog francès</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui és Thanos de Squirt Game?</text>
+        <respostes>
+            <correcta>Un jugador drogadicte</correcta>
+            <incorrecta>El líder de la màscara negra</incorrecta>
+            <incorrecta>Un guàrdia</incorrecta>
+            <incorrecta>El creador dels jocs</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el verdader nom de McLovin?</text>
+        <respostes>
+            <correcta>Fogel</correcta>
+            <incorrecta>Evan</incorrecta>
+            <incorrecta>Seth</incorrecta>
+            <incorrecta>Michael</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del creador de Berserk?</text>
+        <respostes>
+            <correcta>Kentaro Miura</correcta>
+            <incorrecta>Yoshihiro Togashi</incorrecta>
+            <incorrecta>Eiichiro Oda</incorrecta>
+            <incorrecta>Akira Toriyama</incorrecta>
+        </respostes>
+    </pregunta>
+        <pregunta>
+        <text>Perquè son coneguts els Hobbits de la saga el senyor dels anells?</text>
+        <respostes>
+            <correcta>Perquè tenen els peus peluts</correcta>
+            <incorrecta>Perquè son molt agressius</incorrecta>
+            <incorrecta>Perquè son molt alts</incorrecta>
+            <incorrecta>Per correr molt ràpid</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Com es diu el protagonista de Peaky Blinders?</text>
+        <respostes>
+            <correcta>Tomás Shelbig</correcta>
+            <incorrecta>Thomas Shelby</incorrecta>
+            <incorrecta>Pablo Motos</incorrecta>
+            <incorrecta>Thomas Sigma</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Que és el que cuina Walter White a Breaking Bad?</text>
+        <respostes>
+            <correcta>Metanfetamina</correcta>
+            <incorrecta>Dalsy</incorrecta>
+            <incorrecta>Heroina</incorrecta>
+            <incorrecta>Paella</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina d'aquestes capitals es un nom a la "Casa de Papel"?</text>
+        <respostes>
+            <correcta>Sinsinati</correcta>
+            <incorrecta>Chisináu</incorrecta>
+            <incorrecta>Kampala</incorrecta>
+            <incorrecta>Brasilia</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Com es diu del protagonista del Joc del Calamar?</text>
+        <respostes>
+            <correcta>Seong Gi-hun</correcta>
+            <incorrecta>Seong Gu-hin</incorrecta>
+            <incorrecta>Sleon Li-hun</incorrecta>
+            <incorrecta>Cheong Gi-hun</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Com es diun el pinguins de Madagascar?</text>
+        <respostes>
+            <correcta>Skipper,Kowalski,Rico,Cabo</correcta>
+            <incorrecta>Striper,Kowalski,Rico,Cabo</incorrecta>
+            <incorrecta>Skipper,Kawasaki,Rico,Cabo</incorrecta>
+            <incorrecta>Skipper,Kowalski,Rico,Rabo</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui son els directors-escritors de Matrix?</text>
+        <respostes>
+            <correcta>Les germanes Lilly i Lana Wachowski</correcta>
+            <incorrecta>Els germans Andrew i Tristan Tate</incorrecta>
+            <incorrecta>Els germans Llados i Fitnes Dolar</incorrecta>
+            <incorrecta>Les germanes Emma i Chloe Brown</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom de l'aldea on viu Naruto?</text>
+        <respostes>
+            <correcta>Aldea de la Hoja</correcta>
+            <incorrecta>Aldea de la Luz</incorrecta>
+            <incorrecta>Aldea de la Tierra</incorrecta>
+            <incorrecta>Aldea de l'Agua</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>De que no ha treballat Homer Simpson?</text>
+        <respostes>
+            <correcta>Soldador submarí</correcta>
+            <incorrecta>Gelater</incorrecta>
+            <incorrecta>Bomber</incorrecta>
+            <incorrecta>Capellá</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Amb que no s'ha drogat Morty de la serie Rick y Morty?</text>
+        <respostes>
+            <correcta>fentanyl del futur</correcta>
+            <incorrecta>Liquid de frenos d'una nau alien</incorrecta>
+            <incorrecta>cristall de la mort</incorrecta>
+            <incorrecta>antidepressius</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Un cotxe accelera de 0 a 20 m/s en 5 segons. Quina és la seva acceleració?</text>
+        <respostes>
+            <correcta>4 m/s²</correcta>
+            <incorrecta>5 m/s²</incorrecta>
+            <incorrecta>3 m/s²</incorrecta>
+            <incorrecta>6 m/s²</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Resol \( \int 3x^2 dx \)</text>
+        <respostes>
+            <correcta>\( x^3 + C \)</correcta>
+            <incorrecta>\( 3x^3 + C \)</incorrecta>
+            <incorrecta>\( \frac{1}{3}x^3 + C \)</incorrecta>
+            <incorrecta>\( \frac{3}{2}x^3 + C \)</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Un objecte de 2 kg està subjecte a una força de 10 N. Quina és la seva acceleració?</text>
+        <respostes>
+            <correcta>5 m/s²</correcta>
+            <incorrecta>10 m/s²</incorrecta>
+            <incorrecta>2 m/s²</incorrecta>
+            <incorrecta>4 m/s²</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la longitud de la hipotenusa d’un triangle rectangle amb costats de 3 i 4 unitats?</text>
+        <respostes>
+            <correcta>5</correcta>
+            <incorrecta>7</incorrecta>
+            <incorrecta>6</incorrecta>
+            <incorrecta>4,5</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Una esfera té un radi de 7 cm. Quin és el seu volum?</text>
+        <respostes>
+            <correcta>1436,76 cm³</correcta>
+            <incorrecta>1400 cm³</incorrecta>
+            <incorrecta>1500 cm³</incorrecta>
+            <incorrecta>1300 cm³</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Si una ona té una freqüència de 50 Hz i una longitud d’ona de 4 m, quina és la seva velocitat?</text>
+        <respostes>
+            <correcta>200 m/s</correcta>
+            <incorrecta>50 m/s</incorrecta>
+            <incorrecta>100 m/s</incorrecta>
+            <incorrecta>400 m/s</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Un dipòsit cilíndric té una base amb un radi de 3 metres i una alçada de 5 metres. Quin és el seu volum?</text>
+        <respostes>
+            <correcta>141,3 m³</correcta>
+            <incorrecta>150 m³</incorrecta>
+            <incorrecta>120 m³</incorrecta>
+            <incorrecta>160 m³</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Un tren viatja a 60 km/h. Quants metres recorrerà en 10 minuts?</text>
+        <respostes>
+            <correcta>10000 m</correcta>
+            <incorrecta>6000 m</incorrecta>
+            <incorrecta>3600 m</incorrecta>
+            <incorrecta>12000 m</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Si una càrrega elèctrica de 4 C passa per un circuit en 2 segons, quina és la intensitat del corrent?</text>
+        <respostes>
+            <correcta>2 A</correcta>
+            <incorrecta>4 A</incorrecta>
+            <incorrecta>8 A</incorrecta>
+            <incorrecta>1 A</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Una massa de 10 kg cau des d’una alçada de 20 m. Quin és el treball realitzat per la gravetat?</text>
+        <respostes>
+            <correcta>1960 J</correcta>
+            <incorrecta>2000 J</incorrecta>
+            <incorrecta>1800 J</incorrecta>
+            <incorrecta>1500 J</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué palabra clave se utiliza para declarar una clase en Java?</text>
+        <respostes>
+            <correcta>class</correcta>
+            <incorrecta>Class</incorrecta>
+            <incorrecta>define</incorrecta>
+            <incorrecta>struct</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál de los siguientes es el modificador de acceso más restrictivo en Java?</text>
+        <respostes>
+            <correcta>private</correcta>
+            <incorrecta>protected</incorrecta>
+            <incorrecta>public</incorrecta>
+            <incorrecta>default</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué operador se utiliza para comparar dos valores en Java?</text>
+        <respostes>
+            <correcta>==</correcta>
+            <incorrecta>=</incorrecta>
+            <incorrecta>!=</incorrecta>
+            <incorrecta>compare</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué método se utiliza para obtener la longitud de un arreglo en Java?</text>
+        <respostes>
+            <correcta>array.length</correcta>
+            <incorrecta>array.size()</incorrecta>
+            <incorrecta>array.getLength()</incorrecta>
+            <incorrecta>array.length()</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué significa JVM en el contexto de Java?</text>
+        <respostes>
+            <correcta>Java Virtual Machine</correcta>
+            <incorrecta>Java Version Manager</incorrecta>
+            <incorrecta>Java Visual Machine</incorrecta>
+            <incorrecta>Java Verification Module</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué palabra clave se utiliza para heredar una clase en Java?</text>
+        <respostes>
+            <correcta>extends</correcta>
+            <incorrecta>inherits</incorrecta>
+            <incorrecta>implements</incorrecta>
+            <incorrecta>inheritsFrom</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué tipo de datos se utiliza para representar caracteres individuales en Java?</text>
+        <respostes>
+            <correcta>char</correcta>
+            <incorrecta>String</incorrecta>
+            <incorrecta>Character</incorrecta>
+            <incorrecta>text</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el tamaño en bytes de una variable int en Java?</text>
+        <respostes>
+            <correcta>4</correcta>
+            <incorrecta>2</incorrecta>
+            <incorrecta>8</incorrecta>
+            <incorrecta>16</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué método se utiliza para imprimir en consola en Java?</text>
+        <respostes>
+            <correcta>System.out.println()</correcta>
+            <incorrecta>print.console()</incorrecta>
+            <incorrecta>Console.print()</incorrecta>
+            <incorrecta>System.print()</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué paquete se importa automáticamente en todos los programas Java?</text>
+        <respostes>
+            <correcta>java.lang</correcta>
+            <incorrecta>java.util</incorrecta>
+            <incorrecta>java.io</incorrecta>
+            <incorrecta>java.net</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el Pokémon que pot aprendre gairebé tots els moviments?</text>
+        <respostes>
+            <correcta>Mew</correcta>
+            <incorrecta>Mewtwo</incorrecta>
+            <incorrecta>Ditto</incorrecta>
+            <incorrecta>Jirachi</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el Pokémon més petit en alçada?</text>
+        <respostes>
+            <correcta>Flabébé</correcta>
+            <incorrecta>Joltik</incorrecta>
+            <incorrecta>Cutiefly</incorrecta>
+            <incorrecta>Cosmoem</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el primer Pokémon de tipus Fantasma introduït al joc?</text>
+        <respostes>
+            <correcta>Gastly</correcta>
+            <incorrecta>Haunter</incorrecta>
+            <incorrecta>Gengar</incorrecta>
+            <incorrecta>Spiritomb</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l'únic Pokémon amb el tipus Drac/Fada fins a la sisena generació?</text>
+        <respostes>
+            <correcta>Altaria (Mega)</correcta>
+            <incorrecta>Dragonite</incorrecta>
+            <incorrecta>Salamence</incorrecta>
+            <incorrecta>Garchomp</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina evolució d'Eevee és de tipus Aigua?</text>
+        <respostes>
+            <correcta>Vaporeon</correcta>
+            <incorrecta>Jolteon</incorrecta>
+            <incorrecta>Flareon</incorrecta>
+            <incorrecta>Glaceon</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin Pokémon és conegut com "el Déu Pokémon"?</text>
+        <respostes>
+            <correcta>Arceus</correcta>
+            <incorrecta>Mew</incorrecta>
+            <incorrecta>Dialga</incorrecta>
+            <incorrecta>Giratina</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina ciutat és la primera que visites en els jocs de Kanto?</text>
+        <respostes>
+            <correcta>Pueblo Paleta</correcta>
+            <incorrecta>Ciudad Verde</incorrecta>
+            <incorrecta>Ciudad Plateada</incorrecta>
+            <incorrecta>Ciudad Carmín</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin Pokémon evoluciona a Gengar?</text>
+        <respostes>
+            <correcta>Haunter</correcta>
+            <incorrecta>Gastly</incorrecta>
+            <incorrecta>Dusclops</incorrecta>
+            <incorrecta>Sableye</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la regió on es desenvolupa la història de Pokémon Ruby i Sapphire?</text>
+        <respostes>
+            <correcta>Hoenn</correcta>
+            <incorrecta>Sinnoh</incorrecta>
+            <incorrecta>Kanto</incorrecta>
+            <incorrecta>Unova</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin Pokémon llegendari apareix a Pokémon Silver?</text>
+        <respostes>
+            <correcta>Lugia</correcta>
+            <incorrecta>Ho-Oh</incorrecta>
+            <incorrecta>Raikou</incorrecta>
+            <incorrecta>Entei</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin es el riu mes llarg del mon?</text>
+        <respostes>
+            <correcta>Amazonas</correcta>
+            <incorrecta>Nil</incorrecta>
+            <incorrecta>Yangtsé</incorrecta>
+            <incorrecta>Mississipí</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin es l’animal terrestre mes ràpid?</text>
+        <respostes>
+            <correcta>Guepard</correcta>
+            <incorrecta>Lleó</incorrecta>
+            <incorrecta>Antílop</incorrecta>
+            <incorrecta>Tigre</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el metal més lleuger?</text>
+        <respostes>
+            <correcta>Alumini</correcta>
+            <incorrecta>Plata</incorrecta>
+            <incorrecta>Ferro</incorrecta>
+            <incorrecta>Plom</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin país té la torre Eiffel com a monument icònic?</text>
+        <respostes>
+            <correcta>França</correcta>
+            <incorrecta>Alemanya</incorrecta>
+            <incorrecta>Espanya</incorrecta>
+            <incorrecta>Itàlia</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin esport utilitza una pilota ovalada?</text>
+        <respostes>
+            <correcta>Rugbi</correcta>
+            <incorrecta>Futbol</incorrecta>
+            <incorrecta>Bàsquet</incorrecta>
+            <incorrecta>Handbol</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui va pintar "La Gioconda"?</text>
+        <respostes>
+            <correcta>Leonardo da Vinci</correcta>
+            <incorrecta>Vincent van Gogh</incorrecta>
+            <incorrecta>Pablo Picasso</incorrecta>
+            <incorrecta>Salvador Dalí</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l'oceà més gran del món?</text>
+        <respostes>
+            <correcta>Oceà Pacífic</correcta>
+            <incorrecta>Oceà Atlàntic</incorrecta>
+            <incorrecta>Oceà Índic</incorrecta>
+            <incorrecta>Oceà Àrtic</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin es el continent més gran?</text>
+        <respostes>
+            <correcta>Àsia</correcta>
+            <incorrecta>Àfrica</incorrecta>
+            <incorrecta>Amèrica</incorrecta>
+            <incorrecta>Europa</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin es el capital d’Espanya?</text>
+        <respostes>
+            <correcta>Madrid</correcta>
+            <incorrecta>Barcelona</incorrecta>
+            <incorrecta>València</incorrecta>
+            <incorrecta>Sevilla</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin gas es necessari per respirar?</text>
+        <respostes>
+            <correcta>Oxigen</correcta>
+            <incorrecta>Diòxid de carboni</incorrecta>
+            <incorrecta>Hidrogen</incorrecta>
+            <incorrecta>Nitrogen</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Com es diu l'autor del llibre Àlgebra de Baldor?</text>
+        <respostes>
+            <correcta>Àureo Baldor</correcta>
+            <incorrecta>Isaac Newton</incorrecta>
+            <incorrecta>Albert Einstein</incorrecta>
+            <incorrecta>René Descartes</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>A què es dedicava Marie Curie?</text>
+        <respostes>
+            <correcta>Física i química</correcta>
+            <incorrecta>Matemàtica</incorrecta>
+            <incorrecta>Astrònoma</incorrecta>
+            <incorrecta>Biòloga</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el cinquè planeta del sistema solar?</text>
+        <respostes>
+            <correcta>Júpiter</correcta>
+            <incorrecta>Mart</incorrecta>
+            <incorrecta>Saturn</incorrecta>
+            <incorrecta>Venus</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la galàxia més propera a la nostra?</text>
+        <respostes>
+            <correcta>Andròmeda</correcta>
+            <incorrecta>Via Làctia</incorrecta>
+            <incorrecta>Triangle</incorrecta>
+            <incorrecta>Barret</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l'element químic amb símbol O?</text>
+        <respostes>
+            <correcta>Oxigen</correcta>
+            <incorrecta>Or</incorrecta>
+            <incorrecta>Osmí</incorrecta>
+            <incorrecta>Oxalat</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la fórmula per calcular l'àrea d'un triangle?</text>
+        <respostes>
+            <correcta>(base * altura) / 2</correcta>
+            <incorrecta>base * altura</incorrecta>
+            <incorrecta>(base + altura) / 2</incorrecta>
+            <incorrecta>base + altura</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la llei dels cosinus?</text>
+        <respostes>
+            <correcta>c^2 = a^2 + b^2 - 2ab * cos(γ)</correcta>
+            <incorrecta>c^2 = a^2 + b^2 + 2ab * cos(γ)</incorrecta>
+            <incorrecta>c^2 = a^2 - b^2 - 2ab * cos(γ)</incorrecta>
+            <incorrecta>c^2 = a^2 + b^2 - 2ab * sin(γ)</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la tretzena lletra de l'abecedari?</text>
+        <respostes>
+            <correcta>M</correcta>
+            <incorrecta>L</incorrecta>
+            <incorrecta>N</incorrecta>
+            <incorrecta>O</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el primer element de la taula periòdica?</text>
+        <respostes>
+            <correcta>Hidrogen</correcta>
+            <incorrecta>Heli</incorrecta>
+            <incorrecta>Liti</incorrecta>
+            <incorrecta>Beril·li</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el primer manament?</text>
+        <respostes>
+            <correcta>Estimaràs Déu sobre totes les coses</correcta>
+            <incorrecta>No robaràs</incorrecta>
+            <incorrecta>No mataràs</incorrecta>
+            <incorrecta>Honraràs el teu pare i la teva mare</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿En qué año se independizaron los Estados Unidos?</text>
+        <respostes>
+            <correcta>1776</correcta>
+            <incorrecta>1783</incorrecta>
+            <incorrecta>1801</incorrecta>
+            <incorrecta>1754</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué país tiene la bandera más antigua del mundo actualmente en uso?</text>
+        <respostes>
+            <correcta>Dinamarca</correcta>
+            <incorrecta>Reino Unido</incorrecta>
+            <incorrecta>Estados Unidos</incorrecta>
+            <incorrecta>Japón</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué país es el más antiguo del mundo sin haber modificado su frontera?</text>
+        <respostes>
+            <correcta>San Marino</correcta>
+            <incorrecta>China</incorrecta>
+            <incorrecta>Paraguay</incorrecta>
+            <incorrecta>Suiza</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál fue el primer videojuego comercialmente exitoso de la historia?</text>
+        <respostes>
+            <correcta>Ping-Pong</correcta>
+            <incorrecta>Space Invaders</incorrecta>
+            <incorrecta>Pac-Man</incorrecta>
+            <incorrecta>Asteroids</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿En qué año una IA ganó por primera vez a un jugador profesional de ajedrez?</text>
+        <respostes>
+            <correcta>1997</correcta>
+            <incorrecta>1992</incorrecta>
+            <incorrecta>1995</incorrecta>
+            <incorrecta>1993</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el orden de los colores del logo de Google?</text>
+        <respostes>
+            <correcta>Azul, rojo, amarillo, azul, verde, rojo</correcta>
+            <incorrecta>Rojo, azul, amarillo, verde, azul, rojo</incorrecta>
+            <incorrecta>Amarillo, azul, rojo, verde, rojo, azul</incorrecta>
+            <incorrecta>Verde, amarillo, azul, rojo, azul, rojo</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué instrumento musical es conocido como el "rey de los instrumentos"?</text>
+        <respostes>
+            <correcta>Órgano</correcta>
+            <incorrecta>Violín</incorrecta>
+            <incorrecta>Piano</incorrecta>
+            <incorrecta>Flauta</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el continente con más países?</text>
+        <respostes>
+            <correcta>África</correcta>
+            <incorrecta>Asia</incorrecta>
+            <incorrecta>Europa</incorrecta>
+            <incorrecta>América</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el planeta más caliente del sistema solar?</text>
+        <respostes>
+            <correcta>Venus</correcta>
+            <incorrecta>Mercurio</incorrecta>
+            <incorrecta>Marte</incorrecta>
+            <incorrecta>Júpiter</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Porque la gallina cruzó la carretera?</text>
+        <respostes>
+            <correcta>Para llegar al otro lado</correcta>
+            <incorrecta>Porque le seguía un lobo</incorrecta>
+            <incorrecta>Para huir de latinoamerica</incorrecta>
+            <incorrecta>Porque vió comida</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Què és el síndrome de Tourette?</text>
+        <respostes>
+            <correcta>Un trastorn neurològic caracteritzat per tics motors i vocals involuntaris</correcta>
+            <incorrecta>Un trastorn de la memòria</incorrecta>
+            <incorrecta>Una malaltia autoimmune</incorrecta>
+            <incorrecta>Un tipus d'epilèpsia</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin medicament s'utilitza sovint per tractar el síndrome de Tourette?</text>
+        <respostes>
+            <correcta>Haloperidol</correcta>
+            <incorrecta>Ibuprofèn</incorrecta>
+            <incorrecta>Metformina</incorrecta>
+            <incorrecta>Lorazepam</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Què és la sensació del membre fantasma?</text>
+        <respostes>
+            <correcta>La percepció que un membre amputat encara hi és</correcta>
+            <incorrecta>La pèrdua de sensibilitat a les extremitats</incorrecta>
+            <incorrecta>Una paràlisi temporal després d'una lesió</incorrecta>
+            <incorrecta>Un dolor provocat per una inflamació muscular</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la causa més comuna de la sensació del membre fantasma?</text>
+        <respostes>
+            <correcta>Activitat neuronal residual al cervell i medul·la espinal</correcta>
+            <incorrecta>Malaltia autoimmune</incorrecta>
+            <incorrecta>Falta de circulació sanguínia</incorrecta>
+            <incorrecta>Compressió de nervis perifèrics</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Què és l’agnòsia?</text>
+        <respostes>
+            <correcta>La incapacitat de reconèixer objectes, sons o rostres</correcta>
+            <incorrecta>La pèrdua de capacitat per parlar</incorrecta>
+            <incorrecta>La incapacitat de moure les extremitats</incorrecta>
+            <incorrecta>Un trastorn de la percepció del dolor</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Què li passa a una persona que ha perdut la propriocepció?</text>
+        <respostes>
+            <correcta>No pot moure’s adequadament sense fer servir els sentits com la vista</correcta>
+            <incorrecta>No pot sentir dolor a les extremitats</incorrecta>
+            <incorrecta>Perd la capacitat d’equilibri completament</incorrecta>
+            <incorrecta>Experimenta sensació del membre fantasma</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Què és la propriocepció?</text>
+        <respostes>
+            <correcta>La capacitat del cos per percebre la seva posició i moviment</correcta>
+            <incorrecta>La percepció dels sons</incorrecta>
+            <incorrecta>El reconeixement d’emocions</incorrecta>
+            <incorrecta>La capacitat d’identificar olors</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin trastorn es caracteritza per la incapacitat de reconèixer cares excepte si tenen trets molt característics?</text>
+        <respostes>
+            <correcta>Prosopagnòsia</correcta>
+            <incorrecta>Agnòsia auditiva</incorrecta>
+            <incorrecta>Amnèsia retroactiva</incorrecta>
+            <incorrecta>Síndrome del membre fantasma</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin fàrmac s’usa per substituir la dopamina en el tractament del Parkinson?</text>
+        <respostes>
+            <correcta>L-Dopa</correcta>
+            <incorrecta>Sertralina</incorrecta>
+            <incorrecta>Carbamazepina</incorrecta>
+            <incorrecta>Haloperidol</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina condició pot resultar en amnèsia degut al consum crònic d’alcohol i una deficiència de tiamina?</text>
+        <respostes>
+            <correcta>Síndrome de Korsakoff</correcta>
+            <incorrecta>Amnèsia anterògrada</incorrecta>
+            <incorrecta>Malaltia d’Alzheimer</incorrecta>
+            <incorrecta>Epilèpsia del lòbul temporal</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom de l'arma de Thor?</text>
+        <respostes>
+            <correcta>Mjolnir</correcta>
+            <incorrecta>Stormbreaker</incorrecta>
+            <incorrecta>Gungnir</incorrecta>
+            <incorrecta>Vibranium</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui és el creador de Ultron?</text>
+        <respostes>
+            <correcta>Tony Stark</correcta>
+            <incorrecta>Bruce Banner</incorrecta>
+            <incorrecta>Hank Pym</incorrecta>
+            <incorrecta>Thanos</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom real de Captain America?</text>
+        <respostes>
+            <correcta>Steve Rogers</correcta>
+            <incorrecta>Bucky Barnes</incorrecta>
+            <incorrecta>Sam Wilson</incorrecta>
+            <incorrecta>Clint Barton</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom real de Iron Man?</text>
+        <respostes>
+            <correcta>Tony Stark</correcta>
+            <incorrecta>Bruce Wayne</incorrecta>
+            <incorrecta>Peter Parker</incorrecta>
+            <incorrecta>Clark Kent</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom de l'organització que reuneix els superherois a l'UCM?</text>
+        <respostes>
+            <correcta>S.H.I.E.L.D.</correcta>
+            <incorrecta>Hydra</incorrecta>
+            <incorrecta>Stark Industries</incorrecta>
+            <incorrecta>Guardians of the Galaxy</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui és el principal antagonista a "Avengers: Infinity War"?</text>
+        <respostes>
+            <correcta>Thanos</correcta>
+            <incorrecta>Loki</incorrecta>
+            <incorrecta>Ultron</incorrecta>
+            <incorrecta>Red Skull</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui és el principal antagonista a "Black Panther"?</text>
+        <respostes>
+            <correcta>Erik Killmonger</correcta>
+            <incorrecta>M'Baku</incorrecta>
+            <incorrecta>Shuri</incorrecta>
+            <incorrecta>Nakia</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom de l'equip de superherois que inclou Star-Lord?</text>
+        <respostes>
+            <correcta>Guardians of the Galaxy</correcta>
+            <incorrecta>Avengers</incorrecta>
+            <incorrecta>X-Men</incorrecta>
+            <incorrecta>Fantastic Four</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui és el pare de Gamora?</text>
+        <respostes>
+            <correcta>Thanos</correcta>
+            <incorrecta>Star-Lord</incorrecta>
+            <incorrecta>Drax</incorrecta>
+            <incorrecta>Rocket</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui és el creador de Vision?</text>
+        <respostes>
+            <correcta>Ultron</correcta>
+            <incorrecta>Tony Stark</incorrecta>
+            <incorrecta>Bruce Banner</incorrecta>
+            <incorrecta>Thanos</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Quants països hi ha al mon?</text>
+        <respostes>
+            <correcta>195.</correcta>
+            <incorrecta>195.</incorrecta>
+            <incorrecta>204.</incorrecta>
+            <incorrecta>194.</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <tex>¿Quantes pel·licules de "Star Wars" comptant solament les de la saga principal hi ha?</tex>
+        <respostes>
+            <correcta>9.</correcta>
+            <incorrecta>8.</incorrecta>
+            <incorrecta>7.</incorrecta>
+            <incorrecta>10.</incorrecta>
+        </respostes>
+        
+    </pregunta>
+    <pregunta>
+        <text>¿En el airsoft quans tipus de accionaments hi ha en les repliques?</text>
+        <respostes>
+            <correcta>Hi ha quatre que son: AEG, GBB, HPA i moll.</correcta>
+            <incorrecta>Hi ha dos que són: AEG, GBB.</incorrecta>
+            <incorrecta>Hi ha tres que són: AEG, GBB i HPA.</incorrecta>
+            <incorrecta>Hi ha 5 que són: AEG, GBB, HPA, moll i heli.</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Que vol dir "GBB" en el airsoft?</text>
+        <respostes>        
+            <correcta>Gas Blow Back.</correcta>
+            <incorrecta>Great Blow Back.</incorrecta>
+            <incorrecta>Gas Battle Beam.</incorrecta>
+            <incorrecta>Giant Battle Beam.</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Si una estrella es blava es més freda o calenta?</text>
+        <respostes>
+            <correcta>És més calenta, per la radiació d'ones que es desplaça a longituds d'ones més curtes.</correcta>
+            <incorrecta>ÉS més calenta, perquè no consumeixen tant hidrogen com les estrelles vermelles.</incorrecta>
+            <incorrecta>És més freda, perqué la seva energia nuclear es débil.</incorrecta>
+            <incorrecta>Realment son un punt intermig entre les celntes i les fredes.</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿L'energia es pot disipar fins ser inexistent?</text>
+        <respostes>
+            <correcta>No, segons la llei de la conservació de la energia.</correcta>
+            <incorrecta>No, perque la energia es infinita i mai acaba.</incorrecta>
+            <incorrecta>Si, perquè es finita i tot lo finit pot acabar.</incorrecta>
+            <incorrecta>Si, perquè l'energia ve del sol i el sol mai s'acaba.</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Que vol dir en els videojocs o events lúdic esportius la palabra "MILSIM"?</text>
+        <respostes>
+            <correcta>Military Simulation</correcta>
+            <incorrecta>Military Simpathy</incorrecta>
+            <incorrecta>Miles Simetry</incorrecta>
+            <incorrecta>Militant Simplicity</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Per quina empresa va ser desenvolupat el joc "CyberPunk 2077"?</text>
+        <respostes>
+             <correcta>CD Projekt RED</correcta>
+            <incorrecta>Ubisoft</incorrecta>
+            <incorrecta>EA</incorrecta>
+            <incorrecta>Rockstar Games</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta> 
+        <text>¿Cuál es la capital de Japón?</text>
+        <respostes>
+            <correcta>Tokio</correcta> 
+            <incorrecta>Osaka</incorrecta> 
+            <incorrecta>Kioto</incorrecta> 
+            <incorrecta>Nagoya</incorrecta> 
+        </respostes>
+    </pregunta> 
+    <pregunta>
+        <text>¿A Adolf Hitler impulso una ley de protecció animal?</text>
+        <respostes>
+             <correcta>Si, en 1933 que prohibia la vivisecció, el maltracte, la explotacio laboral de animals i l'exposició publica que lis causara dolencies.</correcta>
+            <incorrecta>Si, pero per poder portar-los a la guerra com a buscador de mines.</incorrecta>
+            <incorrecta>No, no hi ha coneixements o proves de uqe li agradacin els animals.</incorrecta>
+            <incorrecta>No, va ser una propaganda nazi per ridiculitzar als jueus.</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin àlbum dels Beatles es considera un dels més influents de la història del rock?</text>
+        <respostes>
+            <correcta>Sgt. Pepper's Lonely Hearts Club Band</correcta>
+            <incorrecta>Abbey Road</incorrecta>
+            <incorrecta>The White Album</incorrecta>
+            <incorrecta>Revolver</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina banda va llançar la cançó "Stairway to Heaven"?</text>
+        <respostes>
+            <correcta>Led Zeppelin</correcta>
+            <incorrecta>Pink Floyd</incorrecta>
+            <incorrecta>The Rolling Stones</incorrecta>
+            <incorrecta>The Who</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin guitarrista és conegut per la seva actuació al festival de Woodstock el 1969?</text>
+        <respostes>
+            <correcta>Jimi Hendrix</correcta>
+            <incorrecta>Eric Clapton</incorrecta>
+            <incorrecta>Jimmy Page</incorrecta>
+            <incorrecta>Keith Richards</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina banda és famosa per la cançó "Bohemian Rhapsody"?</text>
+        <respostes>
+            <correcta>Queen</correcta>
+            <incorrecta>Genesis</incorrecta>
+            <incorrecta>Yes</incorrecta>
+            <incorrecta>The Eagles</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin membre de The Rolling Stones és conegut com el "Rei del Riff"?</text>
+        <respostes>
+            <correcta>Keith Richards</correcta>
+            <incorrecta>Mick Jagger</incorrecta>
+            <incorrecta>Ronnie Wood</incorrecta>
+            <incorrecta>Charlie Watts</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina banda de rock va publicar l'àlbum "Dark Side of the Moon"?</text>
+        <respostes>
+            <correcta>Pink Floyd</correcta>
+            <incorrecta>Deep Purple</incorrecta>
+            <incorrecta>The Doors</incorrecta>
+            <incorrecta>Fleetwood Mac</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina banda va ser liderada per Angus Young?</text>
+        <respostes>
+            <correcta>AC/DC</correcta>
+            <incorrecta>The Byrds</incorrecta>
+            <incorrecta>Creedence Clearwater Revival</incorrecta>
+            <incorrecta>Jefferson Airplane</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin àlbum de Nirvana es famos per la seva portada amb un nen ofegan-se a una piscina perseguint un dollar</text>
+        <respostes>
+            <correcta>Nevermind</correcta>
+            <incorrecta>In Utero</incorrecta>
+            <incorrecta>Bleach</incorrecta>
+            <incorrecta>MTV Unplugged</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>En quin artista es va inspirar Ritchie Blackmore, guitarrista de Deep Purple, per fer el riff mes iconic del rock a la canço "Smoke on the Water"</text>
+        <respostes>
+            <correcta>Ludwig van Beethoven</correcta>
+            <incorrecta>Bad Bunny</incorrecta>
+            <incorrecta>Pink Floyd</incorrecta>
+            <incorrecta>Ariana Grande</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin artista és conegut com el "Rei del Rock and Roll"?</text>
+        <respostes>
+            <correcta>Elvis Presley</correcta>
+            <incorrecta>Chuck Berry</incorrecta>
+            <incorrecta>Little Richard</incorrecta>
+            <incorrecta>Jerry Lee Lewis</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin equip te el millor record de victories-derrotes en una temporada de la NBA?</text>
+            <respostes>
+                <correcta>Golden State Warriors</correcta>
+                <incorrecta>Chicago Bulls</incorrecta>
+                <incorrecta>Boston Celtics</incorrecta>
+                <incorrecta>Minnesota Timberwolves</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Amb quina edat va debutar Lamine Yamal al FC Barcelona en un partit oficial?</text>
+            <respostes>
+                <correcta>15 anys</correcta>
+                <incorrecta>16 anys</incorrecta>
+                <incorrecta>24 anys</incorrecta>
+                <incorrecta>12 anys</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin es el jugador que ha guanyat mes campionats de la NBA?</text>
+            <respostes>
+                <correcta>Bill Russell</correcta>
+                <incorrecta>LeBron James</incorrecta>
+                <incorrecta>Michael Jordan</incorrecta>
+                <incorrecta>Michael Ruffin</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>En quin any va guanyar la selecció Espanyola masculina de futbol el seu primer i de moment únic mundial?</text>
+            <respostes>
+                <correcta>2010</correcta>
+                <incorrecta>2012</incorrecta>
+                <incorrecta>2008</incorrecta>
+                <incorrecta>2014</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina es la puntuació mes alta de Kobe Bryant en un partit NBA?</text>
+            <respostes>
+                <correcta>81 punts</correcta>
+                <incorrecta>75 punts</incorrecta>
+                <incorrecta>100 punts</incorrecta>
+                <incorrecta>12 punts</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>En quina temporada va guanyar Diego Pablo Simeone el seu primer títol de lliga amb l'Atletic de Madrid?</text>
+            <respostes>
+                <correcta>2013/14</correcta>
+                <incorrecta>2020/21</incorrecta>
+                <incorrecta>2015/16</incorrecta>
+                <incorrecta>2018/19</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin es el jugador amb mes triples anotats en un partit NBA?</text>
+            <respostes>
+                <correcta>Klay Thompson</correcta>
+                <incorrecta>Shaquille O'Neal</incorrecta>
+                <incorrecta>Stephen Curry</incorrecta>
+                <incorrecta>Allen Iverson</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Cuants gols va marcar Lionel Messi al any natural 2012?</text>
+            <respostes>
+                <correcta>91 gols</correcta>
+                <incorrecta>85 gols</incorrecta>
+                <incorrecta>104 gols</incorrecta>
+                <incorrecta>0 gols, va estar lesionat</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>En quina posició va ser 'draftejat' Stephen Curry al Draft de 2009?</text>
+            <respostes>
+                <correcta>7</correcta>
+                <incorrecta>1</incorrecta>
+                <incorrecta>3</incorrecta>
+                <incorrecta>5</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin equip anglés va guanyar dos Champions Leagues de manera consecutiva als anys 1979 i 1980?</text>
+            <respostes>
+                <correcta>Nottingham Forest</correcta>
+                <incorrecta>Manchester United</incorrecta>
+                <incorrecta>Rayo Vallecano</incorrecta>
+                <incorrecta>Liverpool</incorrecta>
+            </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l&apos;únic mamífer capaç de volar?</text>
+        <respostes>
+            <correcta>Ratpenat</correcta>
+            <incorrecta>Eriçó</incorrecta>
+            <incorrecta>Esquirol volador</incorrecta>
+            <incorrecta>Colibrí</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin país utilitza el domini d&apos;internet .tv, popular entre creadors de contingut?</text>
+        <respostes>
+            <correcta>Tuvalu</correcta>
+            <incorrecta>Tanzània</incorrecta>
+            <incorrecta>Tailàndia</incorrecta>
+            <incorrecta>Turquia</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la muntanya més alta del món si es mesura des de la base?</text>
+        <respostes>
+            <correcta>Mauna Kea</correcta>
+            <incorrecta>Everest</incorrecta>
+            <incorrecta>K2</incorrecta>
+            <incorrecta>Mont Blanc</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el múscul més fort del cos humà en relació amb la seva mida?</text>
+        <respostes>
+            <correcta>La llengua</correcta>
+            <incorrecta>Bíceps</incorrecta>
+            <incorrecta>Quàdriceps</incorrecta>
+            <incorrecta>Trapezi</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l&apos;únic aliment que no caduca mai?</text>
+        <respostes>
+            <correcta>La mel</correcta>
+            <incorrecta>Arròs</incorrecta>
+            <incorrecta>Vinagre</incorrecta>
+            <incorrecta>Farina</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és l&apos;única lletra que no apareix en cap nom de l&apos;estat nord-americà?</text>
+        <respostes>
+            <correcta>La Q</correcta>
+            <incorrecta>La X</incorrecta>
+            <incorrecta>La Z</incorrecta>
+            <incorrecta>La J</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina part del cos humà continua creixent tota la vida?</text>
+        <respostes>
+            <correcta>El nas</correcta>
+            <incorrecta>Els ulls</incorrecta>
+            <incorrecta>El fetge</incorrecta>
+            <incorrecta>Els pulmons</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la ciutat més antiga del món encara habitada?</text>
+        <respostes>
+            <correcta>Damasc</correcta>
+            <incorrecta>Atenes</incorrecta>
+            <incorrecta>Roma</incorrecta>
+            <incorrecta>Jerusalem</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin animal pot sobreviure fins a 30 anys sense menjar?</text>
+        <respostes>
+            <correcta>Escorpí</correcta>
+            <incorrecta>Serp</incorrecta>
+            <incorrecta>Cocodril</incorrecta>
+            <incorrecta>Tortuga</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin material és el millor conductor d&apos;electricitat?</text>
+        <respostes>
+            <correcta>La plata</correcta>
+            <incorrecta>El coure</incorrecta>
+            <incorrecta>L&apos;or</incorrecta>
+            <incorrecta>L&apos;alumini</incorrecta>
+        </respostes>
+      </pregunta>
+      <pregunta>
+		<text>¿Como se comunican los mudos?</text>
+		<respostes>
+			<correcta>Lenguaje de Signos</correcta>
+			<incorrecta>Código Morse</incorrecta>
+			<incorrecta>No se comunican</incorrecta>
+			<incorrecta>Su idioma nativo</incorrecta>
+		</respostes>
+	</pregunta>
+	<pregunta>
+		<text>¿Quién creó la teoria de la información de Shannon?</text>
+		<respostes>
+			<correcta>Claude E. Shannon</correcta>
+			<incorrecta>Warren Weaver</incorrecta>
+			<incorrecta>Alber Einstein</incorrecta>
+			<incorrecta>Nikola Tesla</incorrecta>
+		</respostes>
+	</pregunta>
+	<pregunta>
+		<text>¿Cuál es el animal mas letal?</text>
+		<respostes>
+			<correcta>Camarón Pistolero</correcta>
+			<incorrecta>Pez Globo</incorrecta>
+			<incorrecta>Pulpo</incorrecta>
+			<incorrecta>Pez Payaso</incorrecta>
+		</respostes>
+	</pregunta>
+	<pregunta>
+		<text>¿Que significan las siglas de CIA?</text>
+		<respostes>
+			<correcta>Central Intelligence Agency</correcta>
+			<incorrecta>Cocaine Importers of America</incorrecta>
+			<incorrecta>Club Inventado Anónimo</incorrecta>
+			<incorrecta>Centro Izquierda Arriba</incorrecta>
+		</respostes>
+	</pregunta>
+	<pregunta>
+		<text>¿Quien era Raymond Reddington?</text>
+		<respostes>
+			<correcta>El Conserje del Crimen</correcta>
+			<incorrecta>Un policia</incorrecta>
+			<incorrecta>Un Detective</incorrecta>
+			<incorrecta>Un Estafador</incorrecta>
+		</respostes>
+	</pregunta>
+	<pregunta>
+		<text>¿De que trata la pelicula: Life Of Pi?</text>
+		<respostes>
+			<correcta>Es una historia sobre Piscine Molitor y Richard Parker</correcta>
+			<incorrecta>El descubrimiento del numero Pi (3,14)</incorrecta>
+			<incorrecta>La vida de un Pino muy grande y el pueblo que habitaba cerca de el</incorrecta>
+			<incorrecta>Una biografía de un viajero nomada</incorrecta>
+		</respostes>
+	</pregunta>
+	<pregunta>
+		<text>Cual es el resultado de la siguiente operacion:	2(2x-3)=6+x</text>
+		<respostes>
+			<correcta>4</correcta>
+			<incorrecta>50</incorrecta>
+			<incorrecta>2</incorrecta>
+			<incorrecta>6</incorrecta>
+		</respostes>
+	</pregunta>
+	<pregunta>
+		<text>¿Cual es el valor del siguiente numero "010"?</text>
+		<respostes>
+			<correcta>2</correcta>
+			<incorrecta>10</incorrecta>
+			<incorrecta>010</incorrecta>
+			<incorrecta>10,00</incorrecta>
+		</respostes>
+	</pregunta>
+	<pregunta>
+		<text>Imagina dos trenes, Tren A y Tren B, que están separados por una distancia específica, digamos 300 kilómetros.Ambos trenes parten al mismo tiempo, el Tren A desde el punto X y el Tren B desde el punto Y, con velocidades constantes de, por ejemplo, 60 km/h y 90 km/h respectivamente. La pregunta es: ¿cuánto tiempo tardarán en encontrarse?</text>
+		<respostes>
+			<correcta>2 Horas</correcta>
+			<incorrecta>4 Horas</incorrecta>
+			<incorrecta>240 Minutos</incorrecta>
+			<incorrecta>300 Kilómetros</incorrecta>
+		</respostes>
+	</pregunta>
+	<pregunta>
+		<text>¿Quién era 'El Sombrerero Loco'?</text>
+		<respostes>
+			<correcta>Un Personaje de una Película</correcta>
+			<incorrecta>Un Artesano de Sombreros</incorrecta>
+			<incorrecta>Johnny Depp</incorrecta>
+			<incorrecta>El Gerente de un Hotel, de nombre 'La Playa'</incorrecta>
+		</respostes>
+	</pregunta>
+    <pregunta>
+        <text>Quin és el llibre més venut de la història (després de la Bíblia)?</text>
+        <respostes>
+            <correcta>Don Quixot</correcta>
+            <incorrecta>El Petit Príncep</incorrecta>
+            <incorrecta>Harry Potter i la Pedra Filosofal</incorrecta>
+            <incorrecta>El Senyor dels Anells</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Com es diu l&#39;únic mamífer capaç de volar?</text>
+        <respostes>
+            <correcta>Ratpenat</correcta>
+            <incorrecta>Esquirol volador</incorrecta>
+            <incorrecta>Àguila</incorrecta>
+            <incorrecta>Colibrí</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina ciutat europea té més ponts?</text>
+        <respostes>
+            <correcta>Hamburg</correcta>
+            <incorrecta>Venècia</incorrecta>
+            <incorrecta>París</incorrecta>
+            <incorrecta>Amsterdam</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l&#39;animal més ràpid del món?</text>
+        <respostes>
+            <correcta>Falcó pelegrí</correcta>
+            <incorrecta>Guepard</incorrecta>
+            <incorrecta>Gasela</incorrecta>
+            <incorrecta>Àliga reial</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el símbol químic del plom?</text>
+        <respostes>
+            <correcta>Pb</correcta>
+            <incorrecta>Pl</incorrecta>
+            <incorrecta>Le</incorrecta>
+            <incorrecta>Pt</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l&#39;únic país del món sense exèrcit?</text>
+        <respostes>
+            <correcta>Costa Rica</correcta>
+            <incorrecta>Andorra</incorrecta>
+            <incorrecta>Suïssa</incorrecta>
+            <incorrecta>Islàndia</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin element es fa servir principalment en la fabricació de microxips?</text>
+        <respostes>
+            <correcta>Silici</correcta>
+            <incorrecta>Coure</incorrecta>
+            <incorrecta>Or</incorrecta>
+            <incorrecta>Ferro</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>En quin any va caure el Mur de Berlín?</text>
+        <respostes>
+            <correcta>1989</correcta>
+            <incorrecta>1991</incorrecta>
+            <incorrecta>1985</incorrecta>
+            <incorrecta>1990</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Com es diu la por irracional als espais tancats?</text>
+        <respostes>
+            <correcta>Claustrofòbia</correcta>
+            <incorrecta>Agorafòbia</incorrecta>
+            <incorrecta>Aracnofòbia</incorrecta>
+            <incorrecta>Acrofòbia</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina és la ciutat més poblada del món?</text>
+        <respostes>
+            <correcta>Tòquio</correcta>
+            <incorrecta>Xangai</incorrecta>
+            <incorrecta>Nova York</incorrecta>
+            <incorrecta>Mumbai</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el personatge de videojoc més icònic del planeta?</text>
+        <respostes>
+            <correcta>Mario</correcta>
+            <incorrecta>Pac-Man</incorrecta>
+            <incorrecta>Sonic</incorrecta>
+            <incorrecta>Pikachu</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Com es diu el mussol de Harry Potter?</text>
+        <respostes>
+            <correcta>Hedwig</correcta>
+            <incorrecta>Scabbers</incorrecta>
+            <incorrecta>Froy</incorrecta>
+            <incorrecta>Owan</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui és el princep mestís de Harry Potter?</text>
+        <respostes>
+            <correcta>Severus Snape</correcta>
+            <incorrecta>Draco Malfoy</incorrecta>
+            <incorrecta>Albus Dumbledore</incorrecta>
+            <incorrecta>Harry Potter</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin encanteria utilitza Harry Potter per matar a Lord Voldemort?</text>
+        <respostes>
+            <correcta>Expeliarmus</correcta>
+            <incorrecta>Avada kedavra</incorrecta>
+            <incorrecta>Expecto patronum</incorrecta>
+            <incorrecta>Cruciatus</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qué s'obté al ingerir la poció Felix Felicis?</text>
+        <respostes>
+            <correcta>Sort</correcta>
+            <incorrecta>Felicitat</incorrecta>
+            <incorrecta>Mala sort</incorrecta>
+            <incorrecta>Tristesa</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qué és el "Quisquilloso"?</text>
+        <respostes>
+            <correcta>Un diari</correcta>
+            <incorrecta>Un caramel</incorrecta>
+            <incorrecta>Un encanteri</incorrecta>
+            <incorrecta>Una escombra</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina criatura invisible tira dels carruatges de Howarts?</text>
+        <respostes>
+            <correcta>Thestrals</correcta>
+            <incorrecta>Unicorn</incorrecta>
+            <incorrecta>Aethonan</incorrecta>
+            <incorrecta>Augurey</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Com es diu el company i gos de Hagrid?</text>
+        <respostes>
+            <correcta>Fang</correcta>
+            <incorrecta>Max</incorrecta>
+            <incorrecta>Bax</incorrecta>
+            <incorrecta>Toby</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina posicio juga Harry Potter en el seu equip de Quidditch?</text>
+        <respostes>
+            <correcta>Buscador</correcta>
+            <incorrecta>Golpejador</incorrecta>
+            <incorrecta>Guardià</incorrecta>
+            <incorrecta>Caçador</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quantes reliquies de la mort hi ha a Harry Potter?</text>
+        <respostes>
+            <correcta>3</correcta>
+            <incorrecta>2</incorrecta>
+            <incorrecta>4</incorrecta>
+            <incorrecta>1</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el país más grande del mundo?</text>
+        <respostes>
+            <correcta>Rusia</correcta>
+            <incorrecta>Canadá</incorrecta>
+            <incorrecta>China</incorrecta>
+            <incorrecta>Estados Unidos</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué gas es más abundante en la atmósfera de la Tierra?</text>
+        <respostes>
+            <correcta>Nitrógeno</correcta>
+            <incorrecta>Oxígeno</incorrecta>
+            <incorrecta>Argón</incorrecta>
+            <incorrecta>Dióxido de carbono</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿En qué año llegó el hombre a la Luna?</text>
+        <respostes>
+            <correcta>1969</correcta>
+            <incorrecta>1959</incorrecta>
+            <incorrecta>1975</incorrecta>
+            <incorrecta>1980</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el idioma más hablado del mundo?</text>
+        <respostes>
+            <correcta>Inglés</correcta>
+            <incorrecta>Chino mandarín</incorrecta>
+            <incorrecta>Español</incorrecta>
+            <incorrecta>Hindi</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es la capital de Australia?</text>
+        <respostes>
+            <correcta>Canberra</correcta>
+            <incorrecta>Sídney</incorrecta>
+            <incorrecta>Melbourne</incorrecta>
+            <incorrecta>Perth</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué animal es conocido como el rey de la selva?</text>
+        <respostes>
+            <correcta>León</correcta>
+            <incorrecta>Tigre</incorrecta>
+            <incorrecta>Elefante</incorrecta>
+            <incorrecta>Jaguar</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el río más largo del mundo?</text>
+        <respostes>
+            <correcta>Amazonas</correcta>
+            <incorrecta>Nilo</incorrecta>
+            <incorrecta>Misisipi</incorrecta>
+            <incorrecta>Yangtsé</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿En qué continente se encuentra Egipto?</text>
+        <respostes>
+            <correcta>África</correcta>
+            <incorrecta>Asia</incorrecta>
+            <incorrecta>Europa</incorrecta>
+            <incorrecta>América</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué instrumento musical tiene teclas blancas y negras?</text>
+        <respostes>
+            <correcta>Piano</correcta>
+            <incorrecta>Violín</incorrecta>
+            <incorrecta>Guitarra</incorrecta>
+            <incorrecta>Trompeta</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el océano más grande del mundo?</text>
+        <respostes>
+            <correcta>Océano Pacífico</correcta>
+            <incorrecta>Océano Atlántico</incorrecta>
+            <incorrecta>Océano Índico</incorrecta>
+            <incorrecta>Océano Ártico</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin joc va guanyar el premi GOTY l'any 2022?</text>
+        <respostes>
+            <correcta>Elden Ring</correcta>
+            <incorrecta>God of War Ragnarök</incorrecta>
+            <incorrecta>Horizon Forbidden West</incorrecta>
+            <incorrecta>Stray</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin joc va ser nomenat GOTY l'any 2021?</text>
+        <respostes>
+            <correcta>It Takes Two</correcta>
+            <incorrecta>Deathloop</incorrecta>
+            <incorrecta>Psychonauts 2</incorrecta>
+            <incorrecta>Resident Evil Village</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin va ser el GOTY de l'any 2020?</text>
+        <respostes>
+            <correcta>The Last of Us Part II</correcta>
+            <incorrecta>Hades</incorrecta>
+            <incorrecta>Ghost of Tsushima</incorrecta>
+            <incorrecta>Final Fantasy VII Remake</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin joc va guanyar el GOTY l'any 2019?</text>
+        <respostes>
+            <correcta>Sekiro: Shadows Die Twice</correcta>
+            <incorrecta>Death Stranding</incorrecta>
+            <incorrecta>Control</incorrecta>
+            <incorrecta>Resident Evil 2</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin va ser el GOTY de l'any 2018?</text>
+        <respostes>
+            <correcta>God of War</correcta>
+            <incorrecta>Red Dead Redemption 2</incorrecta>
+            <incorrecta>Spider-Man</incorrecta>
+            <incorrecta>Celeste</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin joc va guanyar el GOTY l'any 2017?</text>
+        <respostes>
+            <correcta>The Legend of Zelda: Breath of the Wild</correcta>
+            <incorrecta>Horizon Zero Dawn</incorrecta>
+            <incorrecta>Persona 5</incorrecta>
+            <incorrecta>Cuphead</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin va ser el GOTY de l'any 2016?</text>
+        <respostes>
+            <correcta>Overwatch</correcta>
+            <incorrecta>Uncharted 4: A Thief's End</incorrecta>
+            <incorrecta>DOOM</incorrecta>
+            <incorrecta>Inside</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin joc va guanyar el GOTY l'any 2015?</text>
+        <respostes>
+            <correcta>The Witcher 3: Wild Hunt</correcta>
+            <incorrecta>Bloodborne</incorrecta>
+            <incorrecta>Fallout 4</incorrecta>
+            <incorrecta>Metal Gear Solid V: The Phantom Pain</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin va ser el GOTY de l'any 2014?</text>
+        <respostes>
+            <correcta>Dragon Age: Inquisition</correcta>
+            <incorrecta>Middle-earth: Shadow of Mordor</incorrecta>
+            <incorrecta>Alien: Isolation</incorrecta>
+            <incorrecta>Destiny</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin joc va guanyar el GOTY l'any 2013?</text>
+        <respostes>
+            <correcta>The Last of Us</correcta>
+            <incorrecta>Grand Theft Auto V</incorrecta>
+            <incorrecta>BioShock Infinite</incorrecta>
+            <incorrecta>Tomb Raider</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el primer Pokémon en ser disenyat?</text>
+        <respostes>
+            <correcta>Ryhorn</correcta>
+            <incorrecta>Bulbasour</incorrecta>
+            <incorrecta>Arceus</incorrecta>
+            <incorrecta>Mew</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>De quin tipus és el Pokémon Oshawot?</text>
+        <respostes>
+            <correcta>Aigua</correcta>
+            <incorrecta>Planta</incorrecta>
+            <incorrecta>Terra</incorrecta>
+            <incorrecta>Ferro</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin metode utilitza Inkay per evolucionar</text>
+        <respostes>
+            <correcta>Girant la nintendo</correcta>
+            <incorrecta>Utiltizar perdes</incorrecta>
+            <incorrecta>Nivell</incorrecta>
+            <incorrecta>Amisatat</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Amb quin pokemon pots morir mirant-lo desde abaix?</text>
+        <respostes>
+            <correcta>Mimikyu</correcta>
+            <incorrecta>Pikachu</incorrecta>
+            <incorrecta>Ethernatus</incorrecta>
+            <incorrecta>Raiku</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin pokemon es de la cinquena genereació </text>
+        <respostes>
+            <correcta>Liepard</correcta>
+            <incorrecta>Reggiesteal</incorrecta>
+            <incorrecta>Rowlet</incorrecta>
+            <incorrecta>Charmander</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin tipus és súper efectiu contra el tipus Drac?</text>
+        <respostes>
+            <correcta>Gel</correcta>
+            <incorrecta>Roc</incorrecta>
+            <incorrecta>Elèctric</incorrecta>
+            <incorrecta>Aigua</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom de l’evolució final de Charmander?</text>
+        <respostes>
+            <correcta>Charizard</correcta>
+            <incorrecta>Charmeleon</incorrecta>
+            <incorrecta>Flareon</incorrecta>
+            <incorrecta>Magmar</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quina regió es va introduir en els jocs Pokémon Blacn and White?</text>
+        <respostes>
+            <correcta>Unnova</correcta>
+            <incorrecta>Kanto</incorrecta>
+            <incorrecta>Johto</incorrecta>
+            <incorrecta>Sinnoh</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin Pokémon té el nombre més alt d’evolucions possibles?</text>
+        <respostes>
+            <correcta>Eevee</correcta>
+            <incorrecta>Ditto</incorrecta>
+            <incorrecta>Pikachu</incorrecta>
+            <incorrecta>Magikarp</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin moviment té més prioritat?</text>
+        <respostes>
+            <correcta>Sorpresa</correcta>
+            <incorrecta>Attack rapid</incorrecta>
+            <incorrecta>Represalia</incorrecta>
+            <incorrecta>Jo primer</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin any va començar la Primera Guerra Mundial?</text>
+        <respostes>
+            <correcta>1914</correcta>
+            <incorrecta>1918</incorrecta>
+            <incorrecta>1905</incorrecta>
+            <incorrecta>1920</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui va ser el primer emperador de Roma?</text>
+        <respostes>
+            <correcta>August</correcta>
+            <incorrecta>Juli Cèsar</incorrecta>
+            <incorrecta>Neró</incorrecta>
+            <incorrecta>Calígula</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el primer Pokémon en el Pokédex?</text>
+        <respostes>
+            <correcta>Bulbasaur</correcta>
+            <incorrecta>Charmander</incorrecta>
+            <incorrecta>Pikachu</incorrecta>
+            <incorrecta>Squirtle</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin tipus és efectiu contra el tipus Aigua?</text>
+        <respostes>
+            <correcta>Elèctric</correcta>
+            <incorrecta>Foc</incorrecta>
+            <incorrecta>Psíquic</incorrecta>
+            <incorrecta>Volador</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin Pokémon és conegut com el "Déu Pokémon"?</text>
+        <respostes>
+            <correcta>Arceus</correcta>
+            <incorrecta>Mewtwo</incorrecta>
+            <incorrecta>Dialga</incorrecta>
+            <incorrecta>Giratina</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin tipus de Pokémon és Pikachu?</text>
+        <respostes>
+            <correcta>Elèctric</correcta>
+            <incorrecta>Foc</incorrecta>
+            <incorrecta>Normal</incorrecta>
+            <incorrecta>Aigua</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el primer mapa del joc ARK: Survival Evolved?</text>
+        <respostes>
+            <correcta>The Island</correcta>
+            <incorrecta>Scorched Earth</incorrecta>
+            <incorrecta>Ragnarok</incorrecta>
+            <incorrecta>Aberration</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin dinosaure és conegut per ser el més gran a ARK?</text>
+        <respostes>
+            <correcta>Titanosaurus</correcta>
+            <incorrecta>Rex</incorrecta>
+            <incorrecta>Spinosaurus</incorrecta>
+            <incorrecta>Brachiosaurus</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin recurs es necessita per fer pólvora a ARK?</text>
+        <respostes>
+            <correcta>Carbó i Pedra Fogosa</correcta>
+            <incorrecta>Ferro i Pedres</incorrecta>
+            <incorrecta>Carbó i Fusta</incorrecta>
+            <incorrecta>Pedres i Argila</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nivell mínim per domesticar un Crystal Wyvern a ARK?</text>
+        <respostes>
+            <correcta>65</correcta>
+            <incorrecta>50</incorrecta>
+            <incorrecta>70</incorrecta>
+            <incorrecta>45</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Un tren electric va cap al nord a 100 km/h. El vent bufa cap al sud a 10 km/h. Cap a on va el fum?</text>
+        <respostes>
+            <correcta>No produeix fum perque es electric</correcta>
+            <incorrecta>Cap al nord</incorrecta>
+            <incorrecta>Cap al sud</incorrecta>
+            <incorrecta>En totes direccions</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Si en un estany hi ha un nenufar que duplica la seva mida cada dia, i en 30 dies cobreix tot l’estany, en quin dia cobreix la meitat?</text>
+        <respostes>
+            <correcta>Dia 29</correcta>
+            <incorrecta>Dia 15</incorrecta>
+            <incorrecta>Dia 28</incorrecta>
+            <incorrecta>Dia 30</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Dos pares i dos fills entren a una botiga i compren tres barrets. Cada un en rep un. Com es possible?</text>
+        <respostes>
+            <correcta>Son avi, pare i fill</correcta>
+            <incorrecta>Hi havia un barret extra</incorrecta>
+            <incorrecta>Eren germans</incorrecta>
+            <incorrecta>Van compartir els barrets</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Si un metge et dona tres pastilles per prendre cada mitja hora, quant de temps trigues a prendre-les totes?</text>
+        <respostes>
+            <correcta>30 minuts</correcta>
+            <incorrecta>1 hora</incorrecta>
+            <incorrecta>1 hora i mitja</incorrecta>
+            <incorrecta>2 hores</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Si 4 maquines fan 4 joguines en 4 minuts, quant trigaran 100 maquines a fer 100 joguines?</text>
+        <respostes>
+            <correcta>4 minuts</correcta>
+            <incorrecta>100 minuts</incorrecta>
+            <incorrecta>1 minut</incorrecta>
+            <incorrecta>25 minuts</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Una casa te 4 parets. Totes miren cap al sud, i un os camina a prop. De quin color es l’os?</text>
+        <respostes>
+            <correcta>Blanc</correcta>
+            <incorrecta>Marro</incorrecta>
+            <incorrecta>Negre</incorrecta>
+            <incorrecta>Gris</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Que sempre puja pero mai baixa?</text>
+        <respostes>
+            <correcta>L’edat </correcta>
+            <incorrecta>La temperatura</incorrecta>
+            <incorrecta>Un globus</incorrecta>
+            <incorrecta>El sol</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Que pots trencar sense tocar-lo?</text>
+        <respostes>
+            <correcta>Una promesa</correcta>
+            <incorrecta>Una cadira</incorrecta>
+            <incorrecta>Un vidre</incorrecta>
+            <incorrecta>Un ou</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Que te clau pero no pot obrir portes?</text>
+        <respostes>
+            <correcta>Una clau de sol</correcta>
+            <incorrecta>Una clau anglesa</incorrecta>
+            <incorrecta>Una clau d’or</incorrecta>
+            <incorrecta>Un pany</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Que te dents pero no mossega?</text>
+        <respostes>
+            <correcta>Una serra</correcta>
+            <incorrecta>Un ganivet</incorrecta>
+            <incorrecta>Un ratoli</incorrecta>
+            <incorrecta>Una cadira</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el nombre completo del protagonista de la segunda parte de JoJo's Bizarre Adventure?</text>
+        <respuestas>
+            <correcta>Joseph Joestar</correcta>
+            <incorrecta>Jonathan Joestar</incorrecta>
+            <incorrecta>Jotaro Kujo</incorrecta>
+            <incorrecta>Josuke Higashikata</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué tipo de poder es el Spin en JoJo's Bizarre Adventure?</text>
+        <respuestas>
+            <correcta>Una técnica de rotación y movimiento que permite controlar objetos</correcta>
+            <incorrecta>Un poder sobrenatural heredado por la familia Joestar</incorrecta>
+            <incorrecta>Una forma de magia antigua y poderosa</incorrecta>
+            <incorrecta>Una manifestación del espíritu del usuario</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el nombre del protagonista de la sexta parte de JoJo's Bizarre Adventure?</text>
+        <respuestas>
+            <correcta>Jolyne Cujoh</correcta>
+            <incorrecta>Josuke Higashikata</incorrecta>
+            <incorrecta>Giorno Giovanna</incorrecta>
+            <incorrecta>Johnny Joestar</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué habilidad especial tiene el Stand de Jolyne Cujoh?</text>
+        <respuestas>
+            <correcta>Puede transformar objetos en cuerdas y manipularlas</correcta>
+            <incorrecta>Puede controlar la mente de los demás</incorrecta>
+            <incorrecta>Puede viajar en el tiempo</incorrecta>
+            <incorrecta>Puede duplicar objetos</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el nombre del protagonista de la séptima parte de JoJo's Bizarre Adventure?</text>
+        <respuestas>
+            <correcta>Johnny Joestar</correcta>
+            <incorrecta>Josuke Higashikata</incorrecta>
+            <incorrecta>Giorno Giovanna</incorrecta>
+            <incorrecta>Jolyne Cujoh</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué habilidad especial tiene el Stand de Johnny Joestar?</text>
+        <respuestas>
+            <correcta>Puede transferir el dolor y las heridas a otros</correcta>
+            <incorrecta>Puede controlar la mente de los demás</incorrecta>
+            <incorrecta>Puede viajar en el tiempo</incorrecta>
+            <incorrecta>Puede duplicar objetos</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el nombre del protagonista de la octava parte de JoJo's Bizarre Adventure?</text>
+        <respuestas>
+            <correcta>Josuke Higashikata</correcta>
+            <incorrecta>Johnny Joestar</incorrecta>
+            <incorrecta>Giorno Giovanna</incorrecta>
+            <incorrecta>Jolyne Cujoh</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué habilidad especial tiene el Stand de Josuke Higashikata en la octava parte?</text>
+        <respuestas>
+            <correcta>Puede manipular y controlar el flujo del tiempo</correcta>
+            <incorrecta>Puede controlar la mente de los demás</incorrecta>
+            <incorrecta>Puede viajar en el tiempo</incorrecta>
+            <incorrecta>Puede duplicar objetos</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>¿Cuál es el nombre del antagonista principal de la sexta parte de JoJo's Bizarre Adventure?</text>
+        <respuestas>
+            <correcta>Enrico Pucci</correcta>
+            <incorrecta>DIO</incorrecta>
+            <incorrecta>Kars</incorrecta>
+            <incorrecta>Yoshikage Kira</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>¿Qué habilidad especial tiene el Stand de Enrico Pucci?</text>
+        <respuestas>
+            <correcta>Puede acelerar y manipular el flujo del tiempo</correcta>
+            <incorrecta>Puede controlar la mente de los demás</incorrecta>
+            <incorrecta>Puede viajar en el tiempo</incorrecta>
+            <incorrecta>Puede duplicar objetos</incorrecta>
+        </respuestas>
+    </pregunta>
+    <pregunta>
+        <text>Quin Autobot es transforma en un cotxe de policia?</text>
+        <respostes>
+            <correcta>Prowl</correcta>
+            <incorrecta>Optimus Prime</incorrecta>
+            <incorrecta>Bumblebee</incorrecta>
+            <incorrecta>Jazz</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del planeta natal dels Transformers?</text>
+        <respostes>
+            <correcta>Cybertron</correcta>
+            <incorrecta>Earth</incorrecta>
+            <incorrecta>Vulcan</incorrecta>
+            <incorrecta>Krypton</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l'ingredient principal de la paella?</text>
+        <respostes>
+            <correcta>Arròs</correcta>
+            <incorrecta>Pollastre</incorrecta>
+            <incorrecta>Marisc</incorrecta>
+            <incorrecta>Sèpia</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin fruit sec es fa servir per fer el "pesto"?</text>
+        <respostes>
+            <correcta>Pinyons</correcta>
+            <incorrecta>Nous</incorrecta>
+            <incorrecta>Ametlles</incorrecta>
+            <incorrecta>Avellanes</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin jugador té el rècord de més punts en un sol partit de l'NBA?</text>
+        <respostes>
+            <correcta>Wilt Chamberlain</correcta>
+            <incorrecta>Michael Jordan</incorrecta>
+            <incorrecta>Kobe Bryant</incorrecta>
+            <incorrecta>LeBron James</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quants jugadors hi ha a cada equip en una pista de bàsquet?</text>
+        <respostes>
+            <correcta>5</correcta>
+            <incorrecta>6</incorrecta>
+            <incorrecta>7</incorrecta>
+            <incorrecta>4</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l'animal que representa la casa de Gryffindor?</text>
+        <respostes>
+            <correcta>Lleo</correcta>
+            <incorrecta>Serp</incorrecta>
+            <incorrecta>Teixó</incorrecta>
+            <incorrecta>Corb</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és l'encanteri per fer levitar objectes?</text>
+        <respostes>
+            <correcta>Wingardium Leviosa</correcta>
+            <incorrecta>Expelliarmus</incorrecta>
+            <incorrecta>Lumos</incorrecta>
+            <incorrecta>Accio</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Quin és el nom del caçarecompenses que captura Han Solo a Bespin?</text>
+        <respostes>
+            <correcta>Boba Fett</correcta>
+            <incorrecta>Jango Fett</incorrecta>
+            <incorrecta>IG-88</incorrecta>
+            <incorrecta>Dengar</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Qui és el pare de Luke Skywalker?</text>
+        <respostes>
+            <correcta>Anakin Skywalker</correcta>
+            <incorrecta>Obi-Wan Kenobi</incorrecta>
+            <incorrecta>Yoda</incorrecta>
+            <incorrecta>Mace Windu</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Tiene varios lados y puede tener cara, lo haces girar para ver lo que la suerte te depara, que es?</text>
+        <respostes>
+            <correcta>Carta</correcta>   
+            <incorrecta>Moneda</incorrecta>
+            <incorrecta>Dado</incorrecta>
+            <incorrecta>Retrato</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Al principio hay demasiada, despues hay suficiente, mas tarde se hecha en falta y al final hay que buscarla, que es?</text>
+        <respostes>
+            <correcta>Luz</correcta>
+            <incorrecta>Paciencia</incorrecta>
+            <incorrecta>Sabiduria</incorrecta>
+            <incorrecta>Comida</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Un hombre está mirando un retrato y alguien le pregunta: "¿De quién es el retrato?" El hombre responde: "No tengo hermanos ni hermanas, pero el padre de ese hombre es el hijo de mi padre". ¿De quién es el retrato?</text>
+        <respostes>
+            <correcta>De su hijo</correcta>
+            <incorrecta>De su padre</incorrecta>
+            <incorrecta>De él mismo</incorrecta>
+            <incorrecta>De su abuelo</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Cuatro amigos quieren cruzar un puente de noche, pero solo tienen una linterna. Máximo dos personas pueden cruzar a la vez, y cada grupo debe llevar la linterna. Sus tiempos para cruzar son 1, 2, 7 y 10 minutos. ¿Cuál es el menor tiempo en el que todos pueden cruzar?</text>
+        <respostes>
+            <correcta>19 minutos</correcta>
+            <incorrecta>17 minutos</incorrecta>
+            <incorrecta>23 minutos</incorrecta>
+            <incorrecta>21 minutos</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Tengo un comienzo, pero no tengo fin. Me expandí, pero nunca retrocedo. ¿Qué soy?</text>
+        <respostes>
+            <correcta>El tiempo</correcta>
+            <incorrecta>El tiempo</incorrecta>
+            <incorrecta>Una espiral</incorrecta>
+            <incorrecta>El infinito</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Un granjero tiene 17 vacas. Todas, excepto nueve, se pierden. ¿Cuántas vacas quedan?</text>
+        <respostes>
+            <correcta>9</correcta>
+            <incorrecta>8</incorrecta>
+            <incorrecta>17</incorrecta>
+            <incorrecta>0</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Es más viejo que el tiempo, pero cada vez que lo cuentas, pierde un poco de sí mismo. ¿Qué es?</text>
+        <respostes>
+            <correcta>La historia</correcta>
+            <incorrecta>Un secreto</incorrecta>
+            <incorrecta>La arena</incorrecta>
+            <incorrecta>Un reloj de arena</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Pesa lo mismo que una pluma, pero incluso el hombre más fuerte del mundo no puede sostenerlo por más de unos segundos. ¿Qué es?</text>
+        <respostes>
+            <correcta>Su respiración</correcta>
+            <incorrecta>Su conciencia</incorrecta>
+            <incorrecta>Su palabra</incorrecta>
+            <incorrecta>Su sombra</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>En un cuarto hay tres interruptores. En otra habitación, hay una bombilla. Solo puedes ir a la habitación de la bombilla una vez. ¿Cómo puedes saber qué interruptor enciende la bombilla?</text>
+        <respostes>
+            <correcta>Usas el calor de la bombilla para descubrirlo</correcta>
+            <incorrecta>Pruebas los interruptores en secuencia y escuchas</incorrecta>
+            <incorrecta>Enciendes uno, lo apagas y luego otro</incorrecta>
+            <incorrecta>Enciendes los tres al mismo tiempo</incorrecta>
+        </respostes>
+    </pregunta>
+    <pregunta>
+        <text>Existo solo mientras nadie me ve. Una vez que me miran, desaparezco al instante. ¿Qué soy?</text>
+        <respostes>
+            <correcta>La oscuridad</correcta>
+            <incorrecta>Una sombra</incorrecta>
+            <incorrecta>El pensamiento</incorrecta>
+            <incorrecta>El misterio</incorrecta>
+        </respostes>
+    </pregunta>
+</preguntes>
